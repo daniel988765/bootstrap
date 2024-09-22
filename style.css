@@ -1,0 +1,25 @@
+html{
+    scroll-behavior: smooth;
+
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    color: aliceblue;
+    line-height: 1.8;
+}
+p{
+    font-size: 17px;
+}
+.carousel-inner img{
+    width: 100%;
+}
+.carousel .carousel-item{
+    height: 500px;
+    }
+
+    .carousel-item.img{
+    position:absolute;
+    object-fit: cover;
+
+    }
