@@ -23,3 +23,25 @@ p{
     object-fit: cover;
 
     }
+#div-who{
+    background-color: black;
+    
+}
+#div-who p{
+font-size: small;
+}
+#div-where{
+    background-color: rgb(103, 93, 93);
+    
+}
+#div-where img{
+    width: 200px;
+    height: 150px;
+}
+#div-what{
+    background-color: rgb(66, 39, 39);
+}
+#div-what img{
+    width: 200px;
+    height:150px;
+}
